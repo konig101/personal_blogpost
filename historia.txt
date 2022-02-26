@@ -1,5 +1,8 @@
-mi nombre es kevin aguilar 
+Mi nombre es kevin aguilar.
 
-naci en colombia 
+Naci en Buenaventura, valle del cauca y me crie en medellin, antioquia.
 
-estoy estudiando para poder ser un programador algun dia
+Estoy estudiando para poder ser un programador algun dia.
+
+Me gusta hacer ejercicio en mi tiempo libre.
+
