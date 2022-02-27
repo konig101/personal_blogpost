@@ -7,6 +7,7 @@ body
   font-size: 16px;
   margin: 0;
   padding: 0;
+ 
 }
 #container
 {
@@ -24,4 +25,8 @@ body
 #frase
 {
   color: darkmagenta;
+}
+html
+{
+  color: purple;
 }
