@@ -13,8 +13,8 @@ body
   width: 70%;
   padding: 1em;
  text-align: center; 
- border: 1px solid #ddd;
- margin: 0 auto;
+ border: 1px solid rgb(49, 41, 41);
+ margin: 70px auto;
 }
 #container h1
 {
