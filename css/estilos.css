@@ -10,7 +10,7 @@ body
 }
 #container
 {
-  width: 70%;
+  width: 80%;
   padding: 1em;
  text-align: center; 
  border: 1px solid rgb(49, 41, 41);
@@ -20,4 +20,8 @@ body
 {
  font-size: 30px; 
  color: darkmagenta;
+}
+#frase
+{
+  color: darkmagenta;
 }
